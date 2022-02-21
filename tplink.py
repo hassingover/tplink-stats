@@ -6,7 +6,7 @@ import json
 ##########################
 HOST = '192.168.0.1'
 USER = 'admin'
-PASSWORD = '1453.FetiH'
+PASSWORD = 'admin'
 ##########################
 
 ROW_LENGTH = 13
